@@ -1,4 +1,4 @@
-package coinankgo
+package coinank
 
 type Client struct {
 	apiKey string
